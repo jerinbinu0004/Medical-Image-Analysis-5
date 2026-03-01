@@ -1,0 +1,4 @@
+model/xray_model.h5
+*.h5
+*.bin
+node_modules/
